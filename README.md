@@ -2,10 +2,6 @@
 
 Este repositório contém a resolução do case técnico para a estruturação de um pipeline de dados automatizado. A solução integra processos de Web Scraping (RPA), consolidação e tratamento de dados (ETL), análise de performance financeira e extração de sentimentos estruturados utilizando Processamento de Linguagem Natural (NLP/LLM).
 
-# ⛽ Automação e Pipeline de Dados: Rede de Postos Bridge & Co.
-
-Este repositório contém a resolução do case técnico para a estruturação de um pipeline de dados automatizado. A solução integra processos de Web Scraping (RPA), consolidação e tratamento de dados (ETL), análise de performance financeira e extração de sentimentos estruturados utilizando Processamento de Linguagem Natural (NLP/LLM).
-
 ## 📑 Sumário
 - [1. Como Executar o Projeto (Instruções de Setup)](#️-1-como-executar-o-projeto-instruções-de-setup)
 - [2. Visão Geral e Decisões de Arquitetura](#-2-visão-geral-e-decisões-de-arquitetura)
